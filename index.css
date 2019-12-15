@@ -96,6 +96,7 @@ aside {
   padding-right: 10px;
   font-size: 130%;
   font-family: cursive;
+  line-height: 2;
   
   
   
@@ -107,6 +108,7 @@ article {
   grid-column: 3/6;
   text-align: center;
   padding-bottom: 20%;
+  line-height: 1.5;
   
 
 
